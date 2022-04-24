@@ -10,3 +10,10 @@ name-alphabetical order.
 
 Sprites are not mine of course, credit goes to the game artists, whoever they
 specifically are (I can list them out but that would ruin the surprises ;-])
+
+**Note to self:** When ready to push new files, run locally:
+
+```Bash
+rsync -av ~/Commons/cowfiles ./cowfiles
+```
+
