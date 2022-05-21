@@ -6,6 +6,7 @@
 
 Open the `allCowfiles.html` document to get a preview of all the sprites in
 name-alphabetical order.
+(Available for web preview [here](http://cs.uml.edu/~ccook/allCowfiles.html))
 
 Sprites are not mine of course, credit goes to the game artists, whoever they
 specifically are (I can list them out but that would ruin the surprises ;-])
