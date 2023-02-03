@@ -15,7 +15,7 @@ cd cowfiles
 #| tail -n +297 > newBody.html
 cd ..
 mv cowfiles/allCowfiles.new.html .
-sed -i.old "13,45 s/cd/aa/g; 13,45 s/e5/aa/g; 13,45 s/a5/ff/g; 29,45 s/00/55/g; 29,45 s/8d/ff/g; 37 s/55/00/g; 36 s/155/100/g; 9 s/AAAAAA/DDDDDD/" allCowfiles.new.html
+sed -i.old "13,45 s/cd/aa/g; 13,45 s/e5/aa/g; 13,45 s/a5/ff/g; 29,45 s/00/55/g; 29,45 s/8d/ff/g; 36 s/155/100/g; 9 s/AAAAAA/DDDDDD/" allCowfiles.new.html
 
 diff allCowfiles.new.html.old allCowfiles.new.html
 
